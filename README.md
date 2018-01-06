@@ -1,6 +1,6 @@
 This is a timekeeping program, made in C++, using SFML libraries.
 
-![Screenshot](Time keeper.png)
+![Alt text](Time keeper.png)
 
 - On top are the active projects and on the bottom are the workers.
 - By right clicking a field, you can edit it. After edit, when Enter key is pressed, a new field is added (project or worker).
